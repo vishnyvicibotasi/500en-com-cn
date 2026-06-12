@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishnyvicibotasi.github.io/500en-com-cn/sitemap.xml
